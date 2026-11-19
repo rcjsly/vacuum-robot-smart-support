@@ -1,0 +1,8 @@
+{"id":"buy_navigation","query":"复杂户型应该选择激光导航还是视觉导航？","expected_sources":["选购指南.txt"]}
+{"id":"buy_height","query":"床底高度只有8厘米，选购扫地机器人时要注意什么？","expected_sources":["选购指南.txt"]}
+{"id":"maintain_brush","query":"清扫后主刷缠了毛发应该怎样维护？","expected_sources":["维护保养.txt"]}
+{"id":"maintain_mop","query":"拖地结束后怎样清洗和晾干拖布？","expected_sources":["维护保养.txt"]}
+{"id":"trouble_wifi","query":"扫地机器人无法连接WiFi时如何排查？","expected_sources":["故障排除.txt"]}
+{"id":"trouble_leak","query":"拖地时水箱漏水要检查哪些部件？","expected_sources":["故障排除.txt"]}
+{"id":"qa_zone","query":"扫拖一体机器人如何为不同房间设置分区清扫参数？","expected_sources":["扫拖一体机器人100问.txt"]}
+{"id":"qa_return","query":"机器人回充失败，充电座周围应该预留多少空间？","expected_sources":["扫地机器人100问2.txt"]}
